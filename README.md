@@ -1,2 +1,2 @@
 # bdd100k-trajectories
-Generating a uniform trajectories 🛣️ from the BDD100k dataset.
+Generating uniform (displacement wise) trajectories 🛣️ from the BDD100k dataset.
