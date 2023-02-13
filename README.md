@@ -1,4 +1,7 @@
 # bdd100k-trajectories
+
+[![DOI](https://zenodo.org/badge/461611813.svg)](https://zenodo.org/badge/latestdoi/461611813)
+
 Generating uniform (displacement wise) trajectories 🛣️ from the BDD100k dataset.
 
 The generated dataset is available at https://cross-view.s3.amazonaws.com/list.html.
