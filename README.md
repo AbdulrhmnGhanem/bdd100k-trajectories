@@ -4,7 +4,9 @@
 
 Generating uniform (displacement wise) trajectories 🛣️ from the BDD100k dataset.
 
-The generated dataset is available at https://cross-view.s3.amazonaws.com/list.html.
+The generated dataset is hosted on kaggle in two parts ([bdd-trajectores-p1
+(10.34740/kaggle/dsv/4993782)](https://www.kaggle.com/datasets/abdoghanem/bddtrajectores-p1) and [bdd-trajectores-p2
+ (10.34740/kaggle/dsv/4993793)](https://www.kaggle.com/datasets/abdoghanem/bdd-trajectories-p2))
 
 > **Note**
 >
